@@ -1,17 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 	<head>
-		<title>kalkulator</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Kalkulator Simpel</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
 
 		<div class="kalkulator">
-			<input type="text" id="layar">
+			<input type="text" id="layar" readonly placeholder="0">
 
 			<div class="container-tombol">
 				<span class="tombol operator">C</span>
-				<span class="tombol operator"><</span>
+				<span class="tombol operator">&lt;</span>
 				<span class="tombol operator">.</span>
 				<span class="tombol operator">/</span>
 				<span class="tombol">7</span>
@@ -30,6 +32,7 @@
 				<span class="tombol" id="hitung">=</span>
 			</div>
 		</div>
+
+		<script type="text/javascript" src="kalkulator.js"></script>
 	</body>
-	<script type="text/javascript" src="kalkulator.js"></script>
 </html>
