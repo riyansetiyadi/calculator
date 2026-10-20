@@ -3,7 +3,7 @@
 Aplikasi kalkulator berbasis HTML, CSS, dan JavaScript murni (Vanilla JS) yang simpel, responsif, dan mudah digunakan.
 
 ## Demo
-Coba di sini: [https://riyansetiyadi.github.io/calculator/](https://riyansetiyadi.github.io/calculator/)
+Coba di sini: [web](https://kalkulator.ai.id/)
 
 ## Fitur Utama
 - **Desain Simpel & Responsif**: Tampilan bersih dan nyaman digunakan di perangkat desktop maupun HP.
